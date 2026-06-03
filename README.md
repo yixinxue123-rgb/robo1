@@ -310,7 +310,7 @@ A: 参考 `INSTALL.md` 安装 OpenCV 和编译环境
 
 ## 作者
 
-RoboMaster 视觉组
+yixin xue
 
 ---
 
