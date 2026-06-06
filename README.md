@@ -271,10 +271,8 @@ Detailed Results:
 - 几何约束：角度一致性、高度相似性、距离合理性
 - 置信度评分（优化版）：综合多项指标
 
-<img width="470" height="402" alt="微信图片_20260528212437_2_919" src="https://github.com/user-attachments/assets/ad16400e-8235-42c4-808b-ac4fadf5ed9d" />
-<img width="470" height="402" alt="mask_basic" src="https://github.com/user-attachments/assets/84ab8733-af99-41d4-8f18-da1810cf6bd9" />
-<img width="470" height="402" alt="mask" src="https://github.com/user-attachments/assets/b2a270a5-b19d-4fb2-b7e4-ef97c477ba65" />
-<img width="470" height="402" alt="mask_robomaster" src="https://github.com/user-attachments/assets/ab96bce9-fa60-4a99-8f34-1525b044caf7" />
+<img width="1124" height="960" alt="微信图片_20260606205020_734_8" src="https://github.com/user-attachments/assets/0799ae7c-34a4-43cc-b6fc-37b11037e149" />
+
 
 ## 常见问题
 
